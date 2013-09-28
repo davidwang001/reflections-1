@@ -1,30 +1,22 @@
-reflections-1
-=============
-Reflection #2:
-  I thought that the last lecture we made a lot of progress as a group. There was definitely some tension as to how the class
-wanted to move forward. I am glad we had a communication session that resolved some underlying issues, such as lack of tangible
-guidelines and fragmented communication channels. I think by using bspace as a primary medium for outgoing messages and github
-for inflow, there will be less confusion. Before I go into more problems and proposed solutions, I will review some weekly
-roadblocks.
-
-	For roadblocks, I had trouble remembering how to post on Github. It shows the usefulness of reproducible data, which in this
-sense, would save me a lot of time. My steps were as follows:
-
-1. Find the correct repository for submitting on the stat 157 profile
-2. Fork that repository
-3. Edit that version on Github using the github flavored markup
-4. When writing, make sure to skip lines or use a text editor like sublime text so the words are parsed nicely for reading
-*problems with sublime text: starting with a large blob of text, I tried every tab and subtab to find out if any of them, but
-no luck. Google searches were difficult to filter and frequently brought up tutorials on formatting text on computer code rather
-than pure text.
-5. After the markdown is complete, save the edits by giving them a title and hitting submit edits.
-6. File a pull request so that the instructor can view your reflection.
-
-	  For the coming weeks, I would highly appreciate guides on sublime text, github, and ipython so I can have study materials for
-	personal reading at convenient times. To facilitate the learning process, student groups should set reading goals collectively
-	and make sure no group members fall behind within each group. With these implementations, I am confident that the class will
-	be much more organized and the learning process will be accelerated.
-	  Finally, I completely forgot about the reflection until now, and I think such instances could be avoided through two simple
-	plugs. First, we could be handed a weekly syllabus outlining assignments due and material covered. Second, the bspace page
-	should be utilized more in terms of sending out weekly announcements and posting relevant materials, both from instructors
-	and students. 
+Reflection #4:
+It seemed like this week, the main focus was on whether the idea of reproducible data actually interested the undergraduates
+in our class. I say this because from the questions asked in class, it is clear that almost none of the students has any
+personal experience with how reproducible data could benefit the scientific world. 
+Personally, I am on the same boat; I took this class because I was extremely interested in the real world mechanics we would
+learn by operating with iPython and Github, and not so much the process of making sure what we did was reproducible. Keep in
+mind that is what I thought beforehand. As the class went on, I realized that this topic was extremely relevant to professionals
+who were doing their own research, and therefore, worth learning. For example, Eric and Phil's research shows how important
+getting data that both accurately and quickly depends on the reproducibility to past data. Their research examines factors
+that are relevant to all of our lives, and if there is a way to make sure that research comes out faster with less error,
+I think it is worth investing in.
+However, a few things about the class have bothered me. We have spent a lot of time emphasizing the communication aspect,
+but almost no time on the skill set that the class intends to teach us. I know we are close to starting, but this is just
+a point I wanted to reaffirm. An even better method of approaching this class in the future is to do the following flow:
+1. Get all programs downloaded and have guidelines on how to use Github
+2. Start programming small projects where people who need help can COMMUNICATE with peers and the online community for 
+solutions to their problems.
+3. Form groups after everyone gets to know each other from the small projects for a more collaborative atmosphere.
+4. Give these groups larger projects that require specialization.
+5. Repeat step four, but assigning different roles to people.
+6. Tackle the final research project.
+I would be more than happy to discuss anything I relayed in this reflection during office hours, thanks for reading!
